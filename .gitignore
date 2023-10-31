@@ -1,0 +1,8 @@
+user_mood=input("how you feel today (good or bad)")
+if user_mood=="good":
+   print("Thats great . Keep going on")
+elif user_mood=="bad":
+   print("i am sorry to hear this from you")
+else:
+   print("sorry i can't react for your mood.Please enter good or Bad")
+
